@@ -32,3 +32,6 @@ I also inlcuded a line in each search that is commented out, that will display a
 3. The salt term is slayer the hash matched on comparison # 217.\
    The password is slayerrharib the hash matched on comparison # 546155 .\
    It took 0.91 seconds for the program to run.
+   
+   
+*By* Jordan Jones

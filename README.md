@@ -25,3 +25,8 @@ The program begins by first check the number of command line arguments. In the c
 ### Solutions: 
 1. The password is letmein the hash matched on comparison #16 .\
    It took 0.08 seconds for the program to run.
+2. The password is vjhtrhsvdctcegth the hash matched on comparison # 999968 . \
+   It took 1.42 seconds for the program to run.
+3. The salt term is slayer the hash matched on comparison # 217.\
+   The password is slayerrharib the hash matched on comparison # 546155 .\
+   It took 0.91 seconds for the program to run.

@@ -10,6 +10,8 @@ The code uses a few libraries that my be unfamiliar to some. These libraries inc
 
 The program begins by first check the number of command line arguments. In the case of one or fewer arguments or more than three the program will terminate and give an error, due to either too few or too many arguments. If there are only two arguments the program will take the hash value or the second argument, and hash it then through brute force compare it with the list of words to find a match. If there are three arguments the program will behave similar to the first, but a few extra steps are involved. The first hash value or second argument, is hashed and a password is found and returned. This password is then concatenated to the second hash value or third argument, which is hashed to then find a match to that value. After solving the hash through brute force, the result is then printed with the time and the number of comparisons it took to find a match.
 
+I also inlcuded a line in each search that is commented out, that will display all the passwords in the file and the comparison number if uncommented. Doing this will significantly increase the run time of the program.
+
 ### Running this program:
 1. Begin by downlaoding the *assignment2.py* file and *10millionpasswordlisttop.txt* file to the same folder.
 2. Open a terminal so the program can be executed. 

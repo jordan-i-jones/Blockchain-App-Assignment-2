@@ -19,6 +19,9 @@ The program begins by first check the number of command line arguments. In the c
 ### Testing:
 1. Testing program hash: b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
 2. Medium hacker hash: 801cdea58224c921c21fd2b183ff28ffa910ce31
-3. leet hacker hash: ece4bb07f2580ed8b39aa52b7f7f918e43033ea1
-
+3. leet hacker hash: ece4bb07f2580ed8b39aa52b7f7f918e43033ea1\
    *Hint salt term : f0744d60dd500c92c0d37c16174cc58d3c4bdd8e (this is concatenated before hashing with another word to produce the salted hash)*
+
+### Solutions: 
+1. The password is letmein the hash matched on comparison #16 .\
+   It took 0.08 seconds for the program to run.

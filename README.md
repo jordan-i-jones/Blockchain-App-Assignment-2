@@ -14,4 +14,4 @@ The program begins by first check the number of command line arguments. In the c
 1. Begin by downlaoding the assignment2.py file and 10millionpasswordlisttop.txt file to the same folder.
 2. Open a terminal so the program can be executed. 
 3. Using the cd and dir commands go to the folder where the files are located. 
-4. Using **python assignment2.py** in the termainal will run the program. Attach a hash value, one or two, as command line arguments to get a matched password.
+4. Using *python assignment2.py* in the termainal will run the program. Attach a hash value, one or two, as command line arguments to get a matched password.
